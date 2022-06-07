@@ -2,7 +2,7 @@
 
 This is the code project for the [Hello, Alexa!](https://davidpallmann.hashnode.dev/hello-alexa) blog post. 
 
-This episode: Amazon Alexaa. In this Hello, Cloud blog series, we're covering the basics of AWS cloud services for newcomers who are .NET developers. If you love C# but are new to AWS, or to this particular service, this should give you a jumpstart.
+This episode: Amazon Alexa. In this Hello, Cloud blog series, we're covering the basics of AWS cloud services for newcomers who are .NET developers. If you love C# but are new to AWS, or to this particular service, this should give you a jumpstart.
 
 In this post we'll introduce Amazon Alexa and use it in a "Hello, Cloud" .NET program to create a simple voice skill. We'll do this step-by-step, making no assumptions other than familiarity with C# and Visual Studio. We're using Visual Studio 2022 and .NET 6.
 
